@@ -34,7 +34,7 @@
         "@humanwhocodes/gitignore-to-minimatch": "1.0.2",
         "@streamr/config": "5.3.11",
         "@streamr/data-v2": "1.0.2",
-        "@typescript-eslint/eslint-plugin": "5.36.1",
+        "@typescript-eslint/eslint-plugin": "8.19.1",
         "@typescript-eslint/parser": "5.36.1",
         "debug": "4.3.4",
         "eslint": "8.23.0",
