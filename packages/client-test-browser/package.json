@@ -23,7 +23,7 @@
   },
   "devDependencies": {
     "@types/nightwatch": "2.3.4",
-    "chromedriver": "104.0.0",
+    "chromedriver": "131.0.5",
     "nightwatch": "2.3.3",
     "typescript": "4.7.4"
   }
